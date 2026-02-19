@@ -1,5 +1,7 @@
 # Training Medical Students in Machine Learning and AI for Cognitive Impairment Research
 
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/fa3edb1d-d0f3-4edd-88f7-3d10bd2462ed" />
+
 ## Project Overview
 
 This repository hosts an **education-driven research initiative** designed to train medical students in applying **machine learning (ML)** and **AI-assisted interpretation** to clinically meaningful questions related to **cognitive impairment**, with a primary focus on **Alzheimer’s disease and Mild Cognitive Impairment (MCI)**.
